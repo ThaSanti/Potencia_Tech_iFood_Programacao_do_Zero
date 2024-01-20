@@ -28,7 +28,11 @@ Tenha a oportunidade de aplicar esses conhecimentos em projetos práticos, forta
 **Link do Curso:**  <a href="https://web.dio.me/track/9bada25e-4784-4932-ba20-fbb4c1b71855?tab=about">Programação do Zero</a>.
 
 
-**Certificado:** *Em andamento*
+**Certificado:** 
+
+<div class="img-container" align="center">
+  <img src="https://hermes.digitalinnovation.one/certificates/cover/F9AE30A6.jpg" alt="Image" height="396" width="642" />
+</div>
 
 
 ## 
