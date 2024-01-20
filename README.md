@@ -1,6 +1,6 @@
 # Potencia_Tech_iFood_Programacao_do_Zero
 
-###  Detalhes do bootcamp
+###  Detalhes
 
 <div class="img-container" align="center">
   <img src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" alt="Image" height="150" width="150" />
